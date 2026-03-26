@@ -1,7 +1,7 @@
 import { Container, Button } from "react-bootstrap"
 import { motion } from "framer-motion"
 import { FaGithub, FaDownload } from "react-icons/fa"
-import profile from "../assets/profile.jpg"
+import profile from "../assets/profile.jpeg"
 
 export default function Hero() {
   return (
